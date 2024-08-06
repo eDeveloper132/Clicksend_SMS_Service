@@ -23,7 +23,8 @@
     "http": "^0.0.1-security",
     "mongoose": "^8.5.2",
     "request": "^2.88.2",
-    "uuid": "^10.0.0"
+    "uuid": "^10.0.0",
+    "vercel": "^35.2.3"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
